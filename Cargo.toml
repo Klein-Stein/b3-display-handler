@@ -10,6 +10,7 @@ homepage = "https://github.com/Klein-Stein/b3-display-handler"
 readme = "README.md"
 keywords = ["b3", "windowing"]
 categories = ["os"]
+documentation = "https://docs.rs/crate/b3-display-handler/0.1.0"
 exclude = [
     ".vscode/*",
     "github/*",
