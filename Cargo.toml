@@ -1,4 +1,12 @@
 [package]
 name = "b3-display-handler"
+description = "A connecting interface between the provider of a pointer to a window or display and the consumer."
+authors = ["Denis Sologub <ds.sologub@ya.ru>"]
 version = "0.1.0"
 edition = "2021"
+license-file = "LICENSE"
+repository = "https://github.com/Klein-Stein/b3-display-handler"
+homepage = "https://github.com/Klein-Stein/b3-display-handler"
+readme = "README.md"
+keywords = ["b3", "windowing"]
+categories = ["os"]
