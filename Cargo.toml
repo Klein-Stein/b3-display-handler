@@ -1,0 +1,4 @@
+[package]
+name = "b3-display-handler"
+version = "0.1.0"
+edition = "2021"
