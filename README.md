@@ -18,7 +18,7 @@ If you want to make a **Pull Request** or open a new **Issue**, please, make sur
 
 ## Roadmap
 
-- [ ] macOS support
+- [x] macOS support
 - [ ] Windows support
 - [ ] Linux support
 - [ ] iOS support
