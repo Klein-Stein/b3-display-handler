@@ -19,7 +19,7 @@ If you want to make a **Pull Request** or open a new **Issue**, please, make sur
 
 **Mirror:**
 
-- **GitFlic**: <https://gitflic.ru/project/klein-stein/b3-display_handler>
+- **GitFlic**: <https://gitflic.ru/project/klein-stein/b3-display-handler>
 
 ## Documentation
 
