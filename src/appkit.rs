@@ -7,7 +7,7 @@ use std::{ffi::c_void, ptr::NonNull};
 #[derive(Debug, Clone, Copy, PartialEq, Eq, Hash)]
 pub struct AppKitWindowHandler {
     /// A pointer to an `NSView` instance.
-    view_ptr: NonNull<c_void>,
+    pub view_ptr: NonNull<c_void>,
 }
 
 impl AppKitWindowHandler {
