@@ -4,7 +4,7 @@
 
 use appkit::AppKitWindowHandler;
 
-mod appkit;
+pub mod appkit;
 
 /// Provider of a raw pointer to a system window.
 pub trait HasWindowHandler {
